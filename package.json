@@ -1,0 +1,28 @@
+{
+  "name": "quick-sort-youngindia",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngindia/quick-sort-youngindia.git"
+  },
+  "keywords": [
+    "quick-sort-youngindia"
+  ],
+  "author": "youngindia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngindia/quick-sort-youngindia/issues"
+  },
+  "homepage": "https://github.com/youngindia/quick-sort-youngindia#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1",
+    "prime-numbers-youngindia": "1.0.1",
+    "diceroll-youngindia": "1.0.1"
+  }
+}
